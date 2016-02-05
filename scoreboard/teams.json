@@ -1,0 +1,734 @@
+[
+{
+"teamId": 251,
+"teamLocation": "Colorado",
+"teamNickname": "Rockies",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=colorado-rockies&width=%s&height=%s"
+},
+{
+"teamId": 253,
+"teamLocation": "Arizona",
+"teamNickname": "Diamondbacks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=arizona-diamondbacks&width=%s&height=%s"
+},
+{
+"teamId": 243,
+"teamLocation": "Los Angeles",
+"teamNickname": "Dodgers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=los-angeles-dodgers&width=%s&height=%s"
+},
+{
+"teamId": 249,
+"teamLocation": "San Diego",
+"teamNickname": "Padres",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-diego-padres&width=%s&height=%s"
+},
+{
+"teamId": 250,
+"teamLocation": "San Francisco",
+"teamNickname": "Giants",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-francisco-giants&width=%s&height=%s"
+},
+{
+"teamId": 252,
+"teamLocation": "Miami",
+"teamNickname": "Marlins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=miami-marlins&width=%s&height=%s"
+},
+{
+"teamId": 239,
+"teamLocation": "Atlanta",
+"teamNickname": "Braves",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=atlanta-braves&width=%s&height=%s"
+},
+{
+"teamId": 244,
+"teamLocation": "Washington",
+"teamNickname": "Nationals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=washington-nationals&width=%s&height=%s"
+},
+{
+"teamId": 245,
+"teamLocation": "New York",
+"teamNickname": "Mets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-mets&width=%s&height=%s"
+},
+{
+"teamId": 246,
+"teamLocation": "Philadelphia",
+"teamNickname": "Phillies",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=philadelphia-phillies&width=%s&height=%s"
+},
+{
+"teamId": 232,
+"teamLocation": "Milwaukee",
+"teamNickname": "Brewers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=milwaukee-brewers&width=%s&height=%s"
+},
+{
+"teamId": 240,
+"teamLocation": "Chicago",
+"teamNickname": "Cubs",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=chicago-cubs&width=%s&height=%s"
+},
+{
+"teamId": 241,
+"teamLocation": "Cincinnati",
+"teamNickname": "Reds",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=cincinnati-reds&width=%s&height=%s"
+},
+{
+"teamId": 247,
+"teamLocation": "Pittsburgh",
+"teamNickname": "Pirates",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=pittsburgh-pirates&width=%s&height=%s"
+},
+{
+"teamId": 248,
+"teamLocation": "St. Louis",
+"teamNickname": "Cardinals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=st.-louis-cardinals&width=%s&height=%s"
+},
+{
+"teamId": 254,
+"teamLocation": "Tampa Bay",
+"teamNickname": "Rays",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tampa-bay-rays&width=%s&height=%s"
+},
+{
+"teamId": 225,
+"teamLocation": "Baltimore",
+"teamNickname": "Orioles",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=baltimore-orioles&width=%s&height=%s"
+},
+{
+"teamId": 226,
+"teamLocation": "Boston",
+"teamNickname": "Red Sox",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=boston-red-sox&width=%s&height=%s"
+},
+{
+"teamId": 234,
+"teamLocation": "New York",
+"teamNickname": "Yankees",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-yankees&width=%s&height=%s"
+},
+{
+"teamId": 238,
+"teamLocation": "Toronto",
+"teamNickname": "Blue Jays",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=toronto-blue-jays&width=%s&height=%s"
+},
+{
+"teamId": 227,
+"teamLocation": "Los Angeles",
+"teamNickname": "Angels",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=los-angeles-angels&width=%s&height=%s"
+},
+{
+"teamId": 235,
+"teamLocation": "Oakland",
+"teamNickname": "Athletics",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=oakland-athletics&width=%s&height=%s"
+},
+{
+"teamId": 236,
+"teamLocation": "Seattle",
+"teamNickname": "Mariners",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=seattle-mariners&width=%s&height=%s"
+},
+{
+"teamId": 237,
+"teamLocation": "Texas",
+"teamNickname": "Rangers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=texas-rangers&width=%s&height=%s"
+},
+{
+"teamId": 242,
+"teamLocation": "Houston",
+"teamNickname": "Astros",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=houston-astros&width=%s&height=%s"
+},
+{
+"teamId": 228,
+"teamLocation": "Chicago",
+"teamNickname": "White Sox",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=chicago-white-sox&width=%s&height=%s"
+},
+{
+"teamId": 229,
+"teamLocation": "Cleveland",
+"teamNickname": "Indians",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=cleveland-indians&width=%s&height=%s"
+},
+{
+"teamId": 230,
+"teamLocation": "Detroit",
+"teamNickname": "Tigers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=detroit-tigers&width=%s&height=%s"
+},
+{
+"teamId": 231,
+"teamLocation": "Kansas City",
+"teamNickname": "Royals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=kansas-city-royals&width=%s&height=%s"
+},
+{
+"teamId": 233,
+"teamLocation": "Minnesota",
+"teamNickname": "Twins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=minnesota-twins&width=%s&height=%s"
+},
+{
+"teamId": 4973,
+"teamLocation": "Tampa Bay",
+"teamNickname": "Lightning",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tampa-bay-lightning&width=%s&height=%s"
+},
+{
+"teamId": 4963,
+"teamLocation": "Montreal",
+"teamNickname": "Canadiens",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=montreal-canadiens&width=%s&height=%s"
+},
+{
+"teamId": 4974,
+"teamLocation": "Toronto",
+"teamNickname": "Maple Leafs",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=toronto-maple-leafs&width=%s&height=%s"
+},
+{
+"teamId": 4954,
+"teamLocation": "Boston",
+"teamNickname": "Bruins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=boston-bruins&width=%s&height=%s"
+},
+{
+"teamId": 4967,
+"teamLocation": "Ottawa",
+"teamNickname": "Senators",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=ottawa-senators&width=%s&height=%s"
+},
+{
+"teamId": 4955,
+"teamLocation": "Buffalo",
+"teamNickname": "Sabres",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=buffalo-sabres&width=%s&height=%s"
+},
+{
+"teamId": 4958,
+"teamLocation": "Detroit",
+"teamNickname": "Red Wings",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=detroit-red-wings&width=%s&height=%s"
+},
+{
+"teamId": 4979,
+"teamLocation": "Florida",
+"teamNickname": "Panthers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=florida-panthers&width=%s&height=%s"
+},
+{
+"teamId": 4960,
+"teamLocation": "Carolina",
+"teamNickname": "Hurricanes",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=carolina-hurricanes&width=%s&height=%s"
+},
+{
+"teamId": 4969,
+"teamLocation": "Pittsburgh",
+"teamNickname": "Penguins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=pittsburgh-penguins&width=%s&height=%s"
+},
+{
+"teamId": 4976,
+"teamLocation": "Washington",
+"teamNickname": "Capitals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=washington-capitals&width=%s&height=%s"
+},
+{
+"teamId": 4966,
+"teamLocation": "New York",
+"teamNickname": "Rangers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-rangers&width=%s&height=%s"
+},
+{
+"teamId": 4968,
+"teamLocation": "Philadelphia",
+"teamNickname": "Flyers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=philadelphia-flyers&width=%s&height=%s"
+},
+{
+"teamId": 4964,
+"teamLocation": "New Jersey",
+"teamNickname": "Devils",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-jersey-devils&width=%s&height=%s"
+},
+{
+"teamId": 4965,
+"teamLocation": "New York",
+"teamNickname": "Islanders",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-islanders&width=%s&height=%s"
+},
+{
+"teamId": 4982,
+"teamLocation": "Columbus",
+"teamNickname": "Blue Jackets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=columbus-blue-jackets&width=%s&height=%s"
+},
+{
+"teamId": 4962,
+"teamLocation": "Dallas",
+"teamNickname": "Stars",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=dallas-stars&width=%s&height=%s"
+},
+{
+"teamId": 4980,
+"teamLocation": "Nashville",
+"teamNickname": "Predators",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=nashville-predators&width=%s&height=%s"
+},
+{
+"teamId": 4983,
+"teamLocation": "Minnesota",
+"teamNickname": "Wild",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=minnesota-wild&width=%s&height=%s"
+},
+{
+"teamId": 4972,
+"teamLocation": "St. Louis",
+"teamNickname": "Blues",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=st.-louis-blues&width=%s&height=%s"
+},
+{
+"teamId": 4981,
+"teamLocation": "Winnipeg",
+"teamNickname": "Jets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=winnipeg-jets&width=%s&height=%s"
+},
+{
+"teamId": 4957,
+"teamLocation": "Chicago",
+"teamNickname": "Blackhawks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=chicago-blackhawks&width=%s&height=%s"
+},
+{
+"teamId": 4970,
+"teamLocation": "Colorado",
+"teamNickname": "Avalanche",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=colorado-avalanche&width=%s&height=%s"
+},
+{
+"teamId": 4977,
+"teamLocation": "Arizona",
+"teamNickname": "Coyotes",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=arizona-coyotes&width=%s&height=%s"
+},
+{
+"teamId": 4978,
+"teamLocation": "Anaheim",
+"teamNickname": "Ducks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=anaheim-ducks&width=%s&height=%s"
+},
+{
+"teamId": 4961,
+"teamLocation": "Los Angeles",
+"teamNickname": "Kings",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=los-angeles-kings&width=%s&height=%s"
+},
+{
+"teamId": 4971,
+"teamLocation": "San Jose",
+"teamNickname": "Sharks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-jose-sharks&width=%s&height=%s"
+},
+{
+"teamId": 4975,
+"teamLocation": "Vancouver",
+"teamNickname": "Canucks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=vancouver-canucks&width=%s&height=%s"
+},
+{
+"teamId": 4956,
+"teamLocation": "Calgary",
+"teamNickname": "Flames",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=calgary-flames&width=%s&height=%s"
+},
+{
+"teamId": 4959,
+"teamLocation": "Edmonton",
+"teamNickname": "Oilers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=edmonton-oilers&width=%s&height=%s"
+},
+{
+"teamId": 1,
+"teamLocation": "Atlanta",
+"teamNickname": "Hawks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=atlanta-hawks&width=%s&height=%s"
+},
+{
+"teamId": 5312,
+"teamLocation": "Charlotte",
+"teamNickname": "Hornets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=charlotte-hornets&width=%s&height=%s"
+},
+{
+"teamId": 14,
+"teamLocation": "Miami",
+"teamNickname": "Heat",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=miami-heat&width=%s&height=%s"
+},
+{
+"teamId": 19,
+"teamLocation": "Orlando",
+"teamNickname": "Magic",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=orlando-magic&width=%s&height=%s"
+},
+{
+"teamId": 27,
+"teamLocation": "Washington",
+"teamNickname": "Wizards",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=washington-wizards&width=%s&height=%s"
+},
+{
+"teamId": 2,
+"teamLocation": "Boston",
+"teamNickname": "Celtics",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=boston-celtics&width=%s&height=%s"
+},
+{
+"teamId": 17,
+"teamLocation": "Brooklyn",
+"teamNickname": "Nets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=brooklyn-nets&width=%s&height=%s"
+},
+{
+"teamId": 18,
+"teamLocation": "New York",
+"teamNickname": "Knicks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-knicks&width=%s&height=%s"
+},
+{
+"teamId": 20,
+"teamLocation": "Philadelphia",
+"teamNickname": "76ers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=philadelphia-76ers&width=%s&height=%s"
+},
+{
+"teamId": 28,
+"teamLocation": "Toronto",
+"teamNickname": "Raptors",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=toronto-raptors&width=%s&height=%s"
+},
+{
+"teamId": 4,
+"teamLocation": "Chicago",
+"teamNickname": "Bulls",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=chicago-bulls&width=%s&height=%s"
+},
+{
+"teamId": 5,
+"teamLocation": "Cleveland",
+"teamNickname": "Cavaliers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=cleveland-cavaliers&width=%s&height=%s"
+},
+{
+"teamId": 8,
+"teamLocation": "Detroit",
+"teamNickname": "Pistons",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=detroit-pistons&width=%s&height=%s"
+},
+{
+"teamId": 11,
+"teamLocation": "Indiana",
+"teamNickname": "Pacers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=indiana-pacers&width=%s&height=%s"
+},
+{
+"teamId": 15,
+"teamLocation": "Milwaukee",
+"teamNickname": "Bucks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=milwaukee-bucks&width=%s&height=%s"
+},
+{
+"teamId": 6,
+"teamLocation": "Dallas",
+"teamNickname": "Mavericks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=dallas-mavericks&width=%s&height=%s"
+},
+{
+"teamId": 10,
+"teamLocation": "Houston",
+"teamNickname": "Rockets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=houston-rockets&width=%s&height=%s"
+},
+{
+"teamId": 29,
+"teamLocation": "Memphis",
+"teamNickname": "Grizzlies",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=memphis-grizzlies&width=%s&height=%s"
+},
+{
+"teamId": 3,
+"teamLocation": "New Orleans",
+"teamNickname": "Pelicans",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-orleans-pelicans&width=%s&height=%s"
+},
+{
+"teamId": 24,
+"teamLocation": "San Antonio",
+"teamNickname": "Spurs",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-antonio-spurs&width=%s&height=%s"
+},
+{
+"teamId": 7,
+"teamLocation": "Denver",
+"teamNickname": "Nuggets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=denver-nuggets&width=%s&height=%s"
+},
+{
+"teamId": 16,
+"teamLocation": "Minnesota",
+"teamNickname": "Timberwolves",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=minnesota-timberwolves&width=%s&height=%s"
+},
+{
+"teamId": 25,
+"teamLocation": "Oklahoma City",
+"teamNickname": "Thunder",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=oklahoma-city-thunder&width=%s&height=%s"
+},
+{
+"teamId": 22,
+"teamLocation": "Portland",
+"teamNickname": "Trail Blazers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=portland-trail-blazers&width=%s&height=%s"
+},
+{
+"teamId": 26,
+"teamLocation": "Utah",
+"teamNickname": "Jazz",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=utah-jazz&width=%s&height=%s"
+},
+{
+"teamId": 9,
+"teamLocation": "Golden State",
+"teamNickname": "Warriors",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=golden-state-warriors&width=%s&height=%s"
+},
+{
+"teamId": 12,
+"teamLocation": "Los Angeles",
+"teamNickname": "Clippers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=los-angeles-clippers&width=%s&height=%s"
+},
+{
+"teamId": 13,
+"teamLocation": "Los Angeles",
+"teamNickname": "Lakers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=los-angeles-lakers&width=%s&height=%s"
+},
+{
+"teamId": 21,
+"teamLocation": "Phoenix",
+"teamNickname": "Suns",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=phoenix-suns&width=%s&height=%s"
+},
+{
+"teamId": 23,
+"teamLocation": "Sacramento",
+"teamNickname": "Kings",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=sacramento-kings&width=%s&height=%s"
+},
+{
+"teamId": 366,
+"teamLocation": "Baltimore",
+"teamNickname": "Ravens",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=baltimore-ravens&width=%s&height=%s"
+},
+{
+"teamId": 327,
+"teamLocation": "Cincinnati",
+"teamNickname": "Bengals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=cincinnati-bengals&width=%s&height=%s"
+},
+{
+"teamId": 329,
+"teamLocation": "Cleveland",
+"teamNickname": "Browns",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=cleveland-browns&width=%s&height=%s"
+},
+{
+"teamId": 356,
+"teamLocation": "Pittsburgh",
+"teamNickname": "Steelers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=pittsburgh-steelers&width=%s&height=%s"
+},
+{
+"teamId": 324,
+"teamLocation": "Buffalo",
+"teamNickname": "Bills",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=buffalo-bills&width=%s&height=%s"
+},
+{
+"teamId": 345,
+"teamLocation": "Miami",
+"teamNickname": "Dolphins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=miami-dolphins&width=%s&height=%s"
+},
+{
+"teamId": 348,
+"teamLocation": "New England",
+"teamNickname": "Patriots",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-england-patriots&width=%s&height=%s"
+},
+{
+"teamId": 352,
+"teamLocation": "New York",
+"teamNickname": "Jets",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-jets&width=%s&height=%s"
+},
+{
+"teamId": 332,
+"teamLocation": "Denver",
+"teamNickname": "Broncos",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=denver-broncos&width=%s&height=%s"
+},
+{
+"teamId": 339,
+"teamLocation": "Kansas City",
+"teamNickname": "Chiefs",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=kansas-city-chiefs&width=%s&height=%s"
+},
+{
+"teamId": 341,
+"teamLocation": "Oakland",
+"teamNickname": "Raiders",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=oakland-raiders&width=%s&height=%s"
+},
+{
+"teamId": 357,
+"teamLocation": "San Diego",
+"teamNickname": "Chargers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-diego-chargers&width=%s&height=%s"
+},
+{
+"teamId": 325,
+"teamLocation": "Houston",
+"teamNickname": "Texans",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=houston-texans&width=%s&height=%s"
+},
+{
+"teamId": 338,
+"teamLocation": "Indianapolis",
+"teamNickname": "Colts",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=indianapolis-colts&width=%s&height=%s"
+},
+{
+"teamId": 365,
+"teamLocation": "Jacksonville",
+"teamNickname": "Jaguars",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=jacksonville-jaguars&width=%s&height=%s"
+},
+{
+"teamId": 336,
+"teamLocation": "Tennessee",
+"teamNickname": "Titans",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tennessee-titans&width=%s&height=%s"
+},
+{
+"teamId": 355,
+"teamLocation": "Arizona",
+"teamNickname": "Cardinals",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=arizona-cardinals&width=%s&height=%s"
+},
+{
+"teamId": 359,
+"teamLocation": "San Francisco",
+"teamNickname": "49ers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=san-francisco-49ers&width=%s&height=%s"
+},
+{
+"teamId": 361,
+"teamLocation": "Seattle",
+"teamNickname": "Seahawks",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=seattle-seahawks&width=%s&height=%s"
+},
+{
+"teamId": 343,
+"teamLocation": "St. Louis",
+"teamNickname": "Rams",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=st.-louis-rams&width=%s&height=%s"
+},
+{
+"teamId": 323,
+"teamLocation": "Atlanta",
+"teamNickname": "Falcons",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=atlanta-falcons&width=%s&height=%s"
+},
+{
+"teamId": 364,
+"teamLocation": "Carolina",
+"teamNickname": "Panthers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=carolina-panthers&width=%s&height=%s"
+},
+{
+"teamId": 350,
+"teamLocation": "New Orleans",
+"teamNickname": "Saints",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-orleans-saints&width=%s&height=%s"
+},
+{
+"teamId": 362,
+"teamLocation": "Tampa Bay",
+"teamNickname": "Buccaneers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=tampa-bay-buccaneers&width=%s&height=%s"
+},
+{
+"teamId": 326,
+"teamLocation": "Chicago",
+"teamNickname": "Bears",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=chicago-bears&width=%s&height=%s"
+},
+{
+"teamId": 334,
+"teamLocation": "Detroit",
+"teamNickname": "Lions",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=detroit-lions&width=%s&height=%s"
+},
+{
+"teamId": 335,
+"teamLocation": "Green Bay",
+"teamNickname": "Packers",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=green-bay-packers&width=%s&height=%s"
+},
+{
+"teamId": 347,
+"teamLocation": "Minnesota",
+"teamNickname": "Vikings",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=minnesota-vikings&width=%s&height=%s"
+},
+{
+"teamId": 331,
+"teamLocation": "Dallas",
+"teamNickname": "Cowboys",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=dallas-cowboys&width=%s&height=%s"
+},
+{
+"teamId": 351,
+"teamLocation": "New York",
+"teamNickname": "Giants",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=new-york-giants&width=%s&height=%s"
+},
+{
+"teamId": 354,
+"teamLocation": "Philadelphia",
+"teamNickname": "Eagles",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=philadelphia-eagles&width=%s&height=%s"
+},
+{
+"teamId": 363,
+"teamLocation": "Washington",
+"teamNickname": "Redskins",
+"logo": "http://tsnimages.tsn.ca/ImageProvider/TeamLogo?seoId=washington-redskins&width=%s&height=%s"
+}
+]

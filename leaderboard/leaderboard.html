@@ -1,0 +1,186 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>
+		Leaderboard
+	</title>
+
+
+</head>
+<style type="text/css">
+	html{ 
+		padding: 0; margin: 0;
+		background: #000;
+	}
+	
+	body{
+		
+		font-size: 50px;
+		font-family : Helvetica;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+	div{
+	/*	border : 5px solid  black;*/
+	}
+	
+	h1{color: #fff;
+		font-size: 40px;
+		text-align: center;
+	}
+	
+	.count{ float: left; width: 65px; letter-spacing: -2px; text-align: center; font-weight: normal; font-size: 35px; position: relative; top: 15px; }
+	.scoreboard {
+		height: 136px;
+
+		/*display: none;*/
+/*		margin-top: 10px;
+		margin-bottom: 10px;*/
+		color: #FFFFFF;
+		padding: 0; margin: 0;
+		overflow-x: hidden;
+		overflow-y: hidden;		
+/*		margin-bottom: 3px;*/
+/*				border: thin solid lime;*/
+
+	}
+	.home-team {
+/*		display :none;*/
+/*		border-radius: 20px;*/
+		
+		
+	}
+	.home-team-sgm {
+/*		display :none;*/
+/*		border-radius: 20px;*/
+		width : 100%;
+		float: left;
+		height: 65px;
+		display: block;
+		padding: 0 20px 0 20px;
+		margin-bottom: 3px;
+	}
+	.away-team{
+/*		display :none;*/
+/*		border-radius: 20px;*/
+
+	}
+	.away-team-sgm{
+/*		display :none;*/
+/*		border-radius: 20px;*/
+		width : 100%;
+		float: left;
+		height: 65px;
+		display: block;
+		padding: 0 20px 0 20px;
+		margin-bottom: 3px;
+
+
+	}
+
+	.scoreboard p{
+/*		margin-top: 0px !important;
+		margin-bottom: 0px !important;*/
+		
+	}
+	.home-team-sgm .rank, .away-team-sgm .rank{
+		font-size: 1.5em;
+		display: inline-block;
+		vertical-align: top;
+		padding-top: 40px;
+		padding-left: 20px;
+		
+	}
+	.logo{
+		display:inline-block;
+		margin-top: 10px;
+	    margin-left: 20px;
+	    padding-right: 20px;
+
+
+	}
+	.home-team-sgm .logo , .away-team-sgm .logo{
+		display:inline-block;
+		height:120px;
+		background-position: center center;
+  		background-repeat: no-repeat;
+  		
+		 
+	}
+	
+	.logo img{
+		height: 50px !important;
+	}
+	.team-info{
+		display: inline-block;
+		vertical-align: top;
+		padding-top: 40px;
+		
+	}
+	.home-team-sgm .team-info, .away-team-sgm .team-info{
+/*		padding-top: 20px;*/
+		padding: 0px;
+		position: relative;
+		bottom: 20px;
+		font-size: 35px;
+		font-weight: normal !important;
+				
+	}
+	.team {
+		font-size: 20px;
+		padding-top: 20px;
+		
+	}
+	.home-team-sgm .team , .away-team-sgm .team{
+		font-size: 20px;
+		padding-top: 15px;
+
+	}
+
+
+	.score{
+		float:right;
+		position: relative; 
+		bottom: 8px;
+		margin-right: 30px;
+		margin-left:10px;
+		font-size: 30px;
+/*		font-size: 3.2em;*/
+		display: inline-block;
+/*		padding-right: 40px;
+		padding-top: 40px;*/
+		
+	}
+	
+	.home-team-sgm .score, .away-team-sgm .score {
+		font-size: 50px;
+		padding: 10px;
+
+	}
+
+	.home-team img, .away-team img{
+/*		height:180px;
+		width:180px;*/
+		
+	}
+	.home-team-sgm img, .away-team-sgm img{
+		 height:100px;
+		 width:auto;
+	}
+	
+
+
+</style>
+<body>
+		<h1>Pool B Leaderboard</H1>
+	<div id="scoreboard-container" >
+		
+	</div>
+
+<script type="text/javascript"  src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="leaderboard.js"></script>
+
+</body>
+</html>

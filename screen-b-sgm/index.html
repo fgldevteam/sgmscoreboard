@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Screen B</title>
+	<script type="text/javascript" scr="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+</head>
+<style type="text/css">
+	body{
+		height:1080px;
+		width:1920px;
+		margin:0px !important;
+	}
+	iframe{
+		height:100%;
+		width:100%;
+	}
+</style>
+<body>
+
+	<iframe id="main-frame" src=""></iframe>
+
+<script type="text/javascript">
+	    document.getElementById("main-frame").setAttribute("src", "/SgmBrackets");
+	 	var counter = 1;
+	 	setInterval(function(){
+	 		console.log("hello");
+	 		console.log(counter);
+	 		if(counter == 1 ){
+	 			document.getElementById("main-frame").setAttribute("src", "/leaderboard/leaderboard.html");
+	 			counter = 2;
+	 		}
+	 		else{
+	 			document.getElementById("main-frame").setAttribute("src", "/SgmBrackets");
+	 			counter = 1;
+	 		}
+	 		
+	 	}, 30000);
+	 	
+	 //})
+</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+body{ font-family: arial, sans-serif; }
+table td{
+	padding: 10px;
+}
+
+.table-heading{ font-size: 12px; font-weight: bold; }
+
+.card{
+	display: block;
+	height: 80px;
+	width: 130px;
+}
+
+.bears         { background: transparent url('logos/bears.png') top left no-repeat !important; }
+.bears-wc      { background: transparent url('logos/bears-wc.png') top left no-repeat !important; }
+.bears-off     { background: transparent url('logos/bears-off.png') top left no-repeat !important; }
+.bears-wc-off  { background: transparent url('logos/bears-wc-off.png') top left no-repeat !important; }
+
+.vipers         { background: transparent url('logos/vipers.png') top left no-repeat !important; }
+.vipers-wc      { background: transparent url('logos/vipers-wc.png') top left no-repeat !important; }
+.vipers-off     { background: transparent url('logos/vipers-off.png') top left no-repeat !important; }
+.vipers-wc-off  { background: transparent url('logos/vipers-wc-off.png') top left no-repeat !important; }
+
+.cudas         { background: transparent url('logos/cudas.png') top left no-repeat !important; }
+.cudas-wc      { background: transparent url('logos/cudas-wc.png') top left no-repeat !important; }
+.cudas-off     { background: transparent url('logos/cudas-off.png') top left no-repeat !important; }
+.cudas-wc-off  { background: transparent url('logos/cudas-wc-off.png') top left no-repeat !important; }
+
+.huskies         { background: transparent url('logos/huskies.png') top left no-repeat !important; }
+.huskies-wc      { background: transparent url('logos/huskies-wc.png') top left no-repeat !important; }
+.huskies-off     { background: transparent url('logos/huskies-off.png') top left no-repeat !important; }
+.huskies-wc-off  { background: transparent url('logos/huskies-wc-off.png') top left no-repeat !important; }
+
+.carn         { background: transparent url('logos/carn.png') top left no-repeat !important; }
+.carn-wc      { background: transparent url('logos/carn-wc.png') top left no-repeat !important; }
+.carn-off     { background: transparent url('logos/carn-off.png') top left no-repeat !important; }
+.carn-wc-off  { background: transparent url('logos/carn-wc-off.png') top left no-repeat !important; }
+
+.cobras         { background: transparent url('logos/cobras.png') top left no-repeat !important; }
+.cobras-wc      { background: transparent url('logos/cobras-wc.png') top left no-repeat !important; }
+.cobras-off     { background: transparent url('logos/cobras-off.png') top left no-repeat !important; }
+.cobras-wc-off  { background: transparent url('logos/cobras-wc-off.png') top left no-repeat !important; }
+
+.avengers         { background: transparent url('logos/avengers.png') top left no-repeat !important; }
+.avengers-wc      { background: transparent url('logos/avengers-wc.png') top left no-repeat !important; }
+.avengers-off     { background: transparent url('logos/avengers-off.png') top left no-repeat !important; }
+.avengers-wc-off  { background: transparent url('logos/avengers-wc-off.png') top left no-repeat !important; }
+
+.rhinos         { background: transparent url('logos/rhinos.png') top left no-repeat !important; }
+.rhinos-wc      { background: transparent url('logos/rhinos-wc.png') top left no-repeat !important; }
+.rhinos-off     { background: transparent url('logos/rhinos-off.png') top left no-repeat !important; }
+.rhinos-wc-off  { background: transparent url('logos/rhinos-wc-off.png') top left no-repeat !important; }
+
+.eagles         { background: transparent url('logos/eagles.png') top left no-repeat !important; }
+.eagles-wc      { background: transparent url('logos/eagles-wc.png') top left no-repeat !important; }
+.eagles-off     { background: transparent url('logos/eagles-off.png') top left no-repeat !important; }
+.eagles-wc-off  { background: transparent url('logos/eagles-wc-off.png') top left no-repeat !important; }
+
+.dragons         { background: transparent url('logos/dragons.png') top left no-repeat !important; }
+.dragons-wc      { background: transparent url('logos/dragons-wc.png') top left no-repeat !important; }
+.dragons-off     { background: transparent url('logos/dragons-off.png') top left no-repeat !important; }
+.dragons-wc-off  { background: transparent url('logos/dragons-wc-off.png') top left no-repeat !important; }
+
+.pbears         { background: transparent url('logos/pbears.png') top left no-repeat !important; }
+.pbears-wc      { background: transparent url('logos/pbears-wc.png') top left no-repeat !important; }
+.pbears-off     { background: transparent url('logos/pbears-off.png') top left no-repeat !important; }
+.pbears-wc-off  { background: transparent url('logos/pbears-wc-off.png') top left no-repeat !important; }
+
+.flyers         { background: transparent url('logos/flyers.png') top left no-repeat !important; }
+.flyers-wc      { background: transparent url('logos/flyers-wc.png') top left no-repeat !important; }
+.flyers-off     { background: transparent url('logos/flyers-off.png') top left no-repeat !important; }
+.flyers-wc-off  { background: transparent url('logos/flyers-wc-off.png') top left no-repeat !important; }
+
+.tigers         { background: transparent url('logos/tigers.png') top left no-repeat !important; }
+.tigers-wc      { background: transparent url('logos/tigers-wc.png') top left no-repeat !important; }
+.tigers-off     { background: transparent url('logos/tigers-off.png') top left no-repeat !important; }
+.tigers-wc-off  { background: transparent url('logos/tigers-wc-off.png') top left no-repeat !important; }
+
+.glad         { background: transparent url('logos/glad.png') top left no-repeat !important; }
+.glad-wc      { background: transparent url('logos/glad-wc.png') top left no-repeat !important; }
+.glad-off     { background: transparent url('logos/glad-off.png') top left no-repeat !important; }
+.glad-wc-off  { background: transparent url('logos/glad-wc-off.png') top left no-repeat !important; }
+
+.mara         { background: transparent url('logos/mara.png') top left no-repeat !important; }
+.mara-wc      { background: transparent url('logos/mara-wc.png') top left no-repeat !important; }
+.mara-off     { background: transparent url('logos/mara-off.png') top left no-repeat !important; }
+.mara-wc-off  { background: transparent url('logos/mara-wc-off.png') top left no-repeat !important; }
+
+.phil         { background: transparent url('logos/phil.png') top left no-repeat !important; }
+.phil-wc      { background: transparent url('logos/phil-wc.png') top left no-repeat !important; }
+.phil-off     { background: transparent url('logos/phil-off.png') top left no-repeat !important; }
+.phil-wc-off  { background: transparent url('logos/phil-wc-off.png') top left no-repeat !important; }
+
+.owls         { background: transparent url('logos/owls.png') top left no-repeat !important; }
+.owls-wc      { background: transparent url('logos/owls-wc.png') top left no-repeat !important; }
+.owls-off     { background: transparent url('logos/owls-off.png') top left no-repeat !important; }
+.owls-wc-off  { background: transparent url('logos/owls-wc-off.png') top left no-repeat !important; }
+
+.falcons         { background: transparent url('logos/falcons.png') top left no-repeat !important; }
+.falcons-wc      { background: transparent url('logos/falcons-wc.png') top left no-repeat !important; }
+.falcons-off     { background: transparent url('logos/falcons-off.png') top left no-repeat !important; }
+.falcons-wc-off  { background: transparent url('logos/falcons-wc-off.png') top left no-repeat !important; }
+
+.scorp         { background: transparent url('logos/scorp.png') top left no-repeat !important; }
+.scorp-wc      { background: transparent url('logos/scorp-wc.png') top left no-repeat !important; }
+.scorp-off     { background: transparent url('logos/scorp-off.png') top left no-repeat !important; }
+.scorp-wc-off  { background: transparent url('logos/scorp-wc-off.png') top left no-repeat !important; }
+
+.fug         { background: transparent url('logos/fug.png') top left no-repeat !important; }
+.fug-wc      { background: transparent url('logos/fug-wc.png') top left no-repeat !important; }
+.fug-off     { background: transparent url('logos/fug-off.png') top left no-repeat !important; }
+.fug-wc-off  { background: transparent url('logos/fug-wc-off.png') top left no-repeat !important; }
+
+.cannibals         { background: transparent url('logos/cannibals.png') top left no-repeat !important; }
+.cannibals-wc      { background: transparent url('logos/cannibals-wc.png') top left no-repeat !important; }
+.cannibals-off     { background: transparent url('logos/cannibals-off.png') top left no-repeat !important; }
+.cannibals-wc-off  { background: transparent url('logos/cannibals-wc-off.png') top left no-repeat !important; }
+
+.attack         { background: transparent url('logos/attack.png') top left no-repeat !important; }
+.attack-wc      { background: transparent url('logos/attack-wc.png') top left no-repeat !important; }
+.attack-off     { background: transparent url('logos/attack-off.png') top left no-repeat !important; }
+.attack-wc-off  { background: transparent url('logos/attack-wc-off.png') top left no-repeat !important; }
+
+.lumber         { background: transparent url('logos/lumber.png') top left no-repeat !important; }
+.lumber-wc      { background: transparent url('logos/lumber-wc.png') top left no-repeat !important; }
+.lumber-off     { background: transparent url('logos/lumber-off.png') top left no-repeat !important; }
+.lumber-wc-off  { background: transparent url('logos/lumber-wc-off.png') top left no-repeat !important; }
+
+.devils         { background: transparent url('logos/devils.png') top left no-repeat !important; }
+.devils-wc      { background: transparent url('logos/devils-wc.png') top left no-repeat !important; }
+.devils-off     { background: transparent url('logos/devils-off.png') top left no-repeat !important; }
+.devils-wc-off  { background: transparent url('logos/devils-wc-off.png') top left no-repeat !important; }
+
+.jack         { background: transparent url('logos/jack.png') top left no-repeat !important; }
+.jack-wc      { background: transparent url('logos/jack-wc.png') top left no-repeat !important; }
+.jack-off     { background: transparent url('logos/jack-off.png') top left no-repeat !important; }
+.jack-wc-off  { background: transparent url('logos/jack-wc-off.png') top left no-repeat !important; }
+
+.hitmen         { background: transparent url('logos/hitmen.png') top left no-repeat !important; }
+.hitmen-wc      { background: transparent url('logos/hitmen-wc.png') top left no-repeat !important; }
+.hitmen-off     { background: transparent url('logos/hitmen-off.png') top left no-repeat !important; }
+.hitmen-wc-off  { background: transparent url('logos/hitmen-wc-off.png') top left no-repeat !important; }

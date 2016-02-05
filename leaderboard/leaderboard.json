@@ -1,0 +1,144 @@
+[
+	{
+		"HomeCity": "Johnsons",
+		"HomeTeam": "Jackals",
+		"HomeScore": "80",
+		"HomeLogo": "jack.png",
+		"HomeColors": {
+						"DarkColor": "#434380",
+						"LightColor": "#616198"
+					},
+		"HomeRank": 1,
+		"AwayCity": "Baerwalds",
+		"AwayTeam": "Bears",
+		"AwayScore": "50",
+		"AwayLogo": "bears.png",
+		"AwayColors": {
+						"DarkColor": "#034d2f",
+						"LightColor": "#067c4c"
+					},
+		"AwayRank": 2
+	},
+	{
+		"HomeCity": "Angers",
+		"HomeTeam": "Eagles",
+		"HomeScore": "50",
+		"HomeLogo": "eagles.png",
+		"HomeColors": {
+						"DarkColor": "#0096d4",
+						"LightColor": "#22beff"
+					},
+		"HomeRank": 3,
+		"AwayCity": "Phillips",
+		"AwayTeam": "Phoenix",
+		"AwayScore": "50",
+		"AwayLogo": "phil.png",
+		"AwayColors": {
+						"DarkColor": "#000000",
+						"LightColor": "#042FA8"
+					},
+		"AwayRank": 4
+	},
+	{
+		"HomeCity": "Toerings",
+		"HomeTeam": "Tigers",
+		"HomeScore": "40",
+		"HomeLogo": "tigers.png",
+		"HomeColors": {
+						"DarkColor": "#c26e00",
+						"LightColor": "#f7a539"
+					},
+		"HomeRank": 5,
+		"AwayCity": "Friesens",
+		"AwayTeam": "Fugitives",
+		"AwayScore": "35",
+		"AwayLogo": "fug.png",
+		"AwayColors": {
+						"DarkColor": "#264c2c",
+						"LightColor": "#3f7f49"
+					},
+		"AwayRank": 6
+	},
+	{
+		"HomeCity": "De Souzas",
+		"HomeTeam": "Devils",
+		"HomeScore": "34",
+		"HomeLogo": "devils.png",
+		"HomeColors": {
+						"DarkColor": "#c42631",
+						"LightColor": "#cc5860"
+					},
+		"HomeRank": 7,
+		"AwayCity": "McColgans",
+		"AwayTeam": "Marauders",
+		"AwayScore": "33",
+		"AwayLogo": "mara.png",
+		"AwayColors": {
+						"DarkColor": "#ee3a43",
+						"LightColor": "#ef747a"
+					},
+		"AwayRank": 8
+	},
+	{
+		"HomeCity": "Poelzers",
+		"HomeTeam": "PolarBears",
+		"HomeScore": "31",
+		"HomeLogo": "pbears.png",
+		"HomeColors": {
+						"DarkColor": "#ef747a",
+						"LightColor": "#3a4163"
+					},
+		"HomeRank": 9,
+		"AwayCity": "Bergs",
+		"AwayTeam": "Barracudas",
+		"AwayScore": "30",
+		"AwayLogo": "cudas.png",
+		"AwayColors": {
+						"DarkColor": "#1d355b",
+						"LightColor": "#2a759d"
+					},
+		"AwayRank": 10
+	},
+	{
+		"HomeCity": "Granges",
+		"HomeTeam": "Gladiators",
+		"HomeScore": "30",
+		"HomeLogo": "glad.png",
+		"HomeColors": {
+						"DarkColor": "#d62e26",
+						"LightColor": "#f1554e"
+					},
+		"HomeRank": 11,
+		"AwayCity": "Austins",
+		"AwayTeam": "Attack",
+		"AwayScore": "21",
+		"AwayLogo": "attack.png",
+		"AwayColors": {
+						"DarkColor": "#bea884",
+						"LightColor": "#9b6e25"
+					},
+		"AwayRank": 12
+	},
+	{
+		"HomeCity": "Bergens",
+		"HomeTeam": "Bison",
+		"HomeScore": "20",
+		"HomeLogo": "bison.png",
+		"HomeColors": {
+							"DarkColor": "#041E42",
+							"LightColor": "#033B7F"
+					},
+		"HomeRank": 13,
+		"AwayCity": "Harbours",
+		"AwayTeam": "Huskies",
+		"AwayScore": "18",
+		"AwayLogo": "huskies.png",
+		"AwayColors": {
+							"DarkColor": "#bd342e",
+							"LightColor": "#ca5b56"
+					},
+		"AwayRank": 14
+	}
+
+	
+]

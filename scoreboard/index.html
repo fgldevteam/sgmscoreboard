@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>
+		Scoreboard
+	</title>
+
+
+</head>
+<style type="text/css">
+	body{
+		
+		font-size: 50px;
+		font-family : Helvetica;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+	div{
+	/*	border : 5px solid  black;*/
+	}
+	.scoreboard {
+		
+		/*display: none;*/
+		margin-top: 10px;
+		margin-bottom: 10px;
+		color: #FFFFFF;
+
+
+	}
+	.home-team {
+		display :none;
+		border-radius: 20px;
+		
+		
+	}
+	.home-team-sgm {
+		display :none;
+		border-radius: 20px;
+		width : 50%;
+		float: left;
+		
+	}
+	.away-team{
+		display :none;
+		border-radius: 20px;
+		
+	}
+	.away-team-sgm{
+		display :none;
+		border-radius: 20px;
+		width : 50%;
+		float:right;
+	}
+	.game-state {
+		display:none;
+		background-color: #000000;
+		border-radius : 10px ;
+		float:right;
+		padding: 20px;
+		margin-top: -5.5em;
+		margin-right: 10em;
+	}
+	.scoreboard p{
+		margin-top: 0px !important;
+		margin-bottom: 0px !important;
+		
+	}
+	.home-team-sgm .rank, .away-team-sgm .rank{
+		font-size: 1.5em;
+		display: inline-block;
+		vertical-align: top;
+		padding-top: 40px;
+		padding-left: 20px;
+	}
+	.logo{
+		display:inline-block;
+		margin-top: 20px;
+	    margin-left: 20px;
+	    padding-right: 20px;
+
+	}
+	.home-team-sgm .logo , .away-team-sgm .logo{
+		display:inline-block;
+		height:120px;
+		background-position: center center;
+  		background-repeat: no-repeat;
+  		
+		 
+	}
+	.team-info{
+		display: inline-block;
+		vertical-align: top;
+		padding-top: 40px;
+		
+	}
+	.home-team-sgm .team-info, .away-team-sgm .team-info{
+		padding-top: 20px;
+		font-size: 0.7em;
+	}
+	.team {
+		font-size: 2em;
+		padding-top: 20px;
+		
+	}
+	.home-team-sgm .team , .away-team-sgm .team{
+		font-size: 1.6em;
+		padding-top: 15px;
+	}
+
+
+	.score{
+		float:right;
+		margin-left:10px;
+		font-size: 3.2em;
+		display: inline-block;
+		padding-right: 40px;
+		padding-top: 40px;
+		
+	}
+	
+	.home-team-sgm .score, .away-team-sgm .score {
+		font-size: 1.7em;
+		padding-top: 25px;
+
+	}
+
+	.home-team img, .away-team img{
+		height:180px;
+		width:180px;
+		
+	}
+	.home-team-sgm img, .away-team-sgm img{
+		 height:100px;
+		 width:auto;
+	}
+	
+
+</style>
+<body>
+	<div id="scoreboard-container" >
+		
+	</div>
+
+<script type="text/javascript"  src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.2/underscore-min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="sgm-scoreboard.js"></script>
+
+</body>
+</html>
