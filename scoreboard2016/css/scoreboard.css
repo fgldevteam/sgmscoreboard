@@ -1,0 +1,220 @@
+	html{ 
+		padding: 0; margin: 0;
+		background: #000;
+	}
+	
+	body{
+		
+		font-size: 50px;
+		font-family : Helvetica;
+		text-transform: uppercase;
+		font-weight: bold;
+		height:100%;
+		width:100%;
+		overflow-x : hidden;
+		overflow-y : hidden;
+	}
+	
+	h1{color: #fff;
+		font-size: 40px;
+		text-align: center;
+	}
+
+	.col-1{
+		width:50%;
+		float:left;
+	}
+	.col-2{
+		width:50%;
+		float: right;
+	}	
+	
+	
+	.scoreboard {
+		color: #FFFFFF;
+		padding: 0; margin: 0;
+		overflow-x: hidden;
+		overflow-y: hidden;		
+
+	}
+	.team {
+		font-size: 20px;
+		padding: 3px 0 3px 0;
+		width : 100%;
+		float: left;
+		display: block;
+		
+	}
+
+
+	.count{ float: left; width: 65px; letter-spacing: -2px; text-align: center; font-weight: normal; font-size: 35px; position: relative; top: 15px; color:#fff;}
+
+	.logo{
+		display:inline-block;
+	    padding-right: 15%;
+		height:60px;
+		background-position: center center;
+  		background-repeat: no-repeat;
+  		
+		 
+	}
+	
+	.team-info{
+		display: inline-block;
+		vertical-align: top;
+		position: relative;
+		top:10px;
+		font-size: 35px;
+		font-weight: normal !important;
+		color: #fff;
+				
+	}
+
+	.score{
+		/*float:right;*/
+		position: relative; 
+		margin-right: 3%;
+		font-size: 1.8em;
+		display: inline-block;
+		color: #fff;
+		bottom: 15px;
+
+	}
+	
+	.bar-container {
+		display: inline-block;
+		position: relative;
+   		bottom: 15px;
+
+	}	
+	.bar {
+		display: inline-block;
+		width:300px;
+		height:30px;
+		border-radius: 5px;
+		background-color: #e0e0e0;
+		padding: 0;
+		margin: 0;
+	}
+	.progress{
+		display: inline-block;
+    	height: 30px;
+    	border-radius: 5px;
+	}
+
+	#progress-gladiators {
+		width:100px;
+		background : linear-gradient( 180deg,#f1554e, #f1554e );
+	}
+
+
+	#progress-bears {
+		width:85px;
+		background : linear-gradient( 180deg, #034d2f, #067c4c);
+	}
+
+	#progress-eagles {
+		width:82px;
+		background : linear-gradient( 180deg, #0096d4, #22beff);
+	}
+	#progress-bison {
+		width:92px;
+		background : linear-gradient( 180deg, #041E42, #033B7F );	
+	}
+	#progress-rampage {
+		width:79px;
+		background : linear-gradient( 180deg, #6e4d29, #7b6246);
+	}
+	#progress-phoenix {
+		width:95px;
+		background: linear-gradient( 180deg, #042B9A, #042FA8);
+	}
+	#progress-flyers {
+		width:72px;
+		background : linear-gradient( 180deg, #7c2336, #b52344);
+	}
+	#progress-carnivores {
+		width:71px;
+		background : linear-gradient( 180deg,#bb7f32, #d7a15a);
+	}
+	#progress-bulldogs {
+		width:74px;
+		background : linear-gradient( 180deg,#434380, #616198 );
+	}
+	#progress-dragons {
+		width:76px;
+		background : linear-gradient( 180deg,#db3c26, #f15e4a );
+	}
+	#progress-rhinos{
+		width:75px;
+		background : linear-gradient( 180deg,#2b3a53, #3c537d );
+	}
+	#progress-cannibals {
+		width:84px;
+		background : linear-gradient( 180deg,#7c2336, #b52344);
+	}
+	#progress-scorpions {
+		width:72px;
+		background : linear-gradient( 180deg,#f9d01a, #d8b311 );
+	}
+	#progress-lumberjacks{
+		width:87px;
+		background : linear-gradient( 180deg,#6e4d29, #7b6246 );
+	}
+	#progress-owls {
+		width:98px;
+		background : linear-gradient( 180deg, #961a33 ,#ac3149);
+		
+	}
+	#progress-vipers {
+		width:71px;
+		background : linear-gradient( 180deg,#d91f2a, #fc4e58 );
+	}
+	#progress-hitmen{
+		width:79px;
+		background : linear-gradient( 180deg,#2b3a53, #2051a4 );
+	}
+	#progress-cobras{
+		width:79px;
+		background : linear-gradient( 180deg,#fb640e, #f47932 );
+	}
+	
+	#progress-polarbears {
+		width:90px;
+		background : linear-gradient( 180deg,#0096d4, #22beff );
+	}
+	#progress-barracudas{
+		width:84px;
+		background : linear-gradient( 180deg,#1d355b, #2a759d );
+	}
+
+	#progress-marauders {
+		width:80px;
+		background : linear-gradient( 180deg, #ee3a43, #ef747a);
+	}
+
+	#progress-devils {
+		width:74px;
+		background : linear-gradient( 180deg,#c42631, #cc5860 );
+		
+	}
+
+	#progress-tigers {
+		width:77px;
+		background : linear-gradient( 180deg, #c26e00, #f7a539);
+	}
+
+	#progress-fugitives {
+		width:70px;
+		background : linear-gradient( 180deg,#264c2c, #3f7f49 );
+	}
+
+	#progress-avengers {
+		width:78px;
+		background : linear-gradient( 180deg,#190C3D, #6D5AA3 );
+	}
+
+	#progress-huskies {
+		width:70px;
+		background : linear-gradient( 180deg,#bd342e, #ca5b56 );
+	}

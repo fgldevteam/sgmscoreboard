@@ -1,0 +1,260 @@
+teams:	[
+	{
+		
+		"name": "Gladiators",
+		"score": "100",
+		"logo": "gladiators.png",
+		"colors": {
+						"DarkColor": "#d62e26",
+						"LightColor": "#f1554e"
+					}
+	},
+
+	{
+
+		"name": "Owls",
+		"score": "98",
+		"logo": "owls.png",
+		"colors": {
+						"DarkColor": "#961a33",
+						"LightColor": "#ac3149"
+					}
+	},
+	{
+		"name": "Phoenix",
+		"score": "95",
+		"logo": "phoenix.png",
+		"colors": {
+						"DarkColor": "#042B9A",
+						"LightColor": "#042FA8"
+					}
+	},
+	{
+		
+		"name": "Bison",
+		"score": "92",
+		"logo": "bison.png",
+		"colors": {
+							"DarkColor": "#041E42",
+							"LightColor": "#033B7F"
+					},
+	},
+	{
+		
+		"name": "PolarBears",
+		"score": "90",
+		"logo": "polarbears.png",
+		"colors": {
+						"DarkColor": "#ef747a",
+						"LightColor": "#3a4163"
+					},
+	},
+	{
+		
+		"name": "Lumberjacks",
+		"score": "87",
+		"logo": "lumberjacks.png",
+		"colors": {
+						"DarkColor": "#7c2336",
+						"LightColor": "#b52344"
+					},
+	},
+	{
+		"name": "Bears",
+		"score": "85",
+		"logo": "bears.png",
+		"colors": {
+						"DarkColor": "#034d2f",
+						"LightColor": "#067c4c"
+					},
+	},
+	{
+		"name": "Barracudas",
+		"score": "84",
+		"logo": "barracudas.png",
+		"colors": {
+						"DarkColor": "#1d355b",
+						"LightColor": "#2a759d"
+					}
+	},
+	{
+		"name": "Cannibals",
+		"score": "84",
+		"logo": "cannibals.png",
+		"colors": {
+						"DarkColor": "#7c2336",
+						"LightColor": "#b52344"
+					},
+		
+	},
+	{
+		
+		"name": "Eagles",
+		"score": "82",
+		"logo": "eagles.png",
+		"colors": {
+						"DarkColor": "#0096d4",
+						"LightColor": "#22beff"
+					},
+	},
+	{
+		"name": "Marauders",
+		"score": "80",
+		"logo": "marauders.png",
+		"colors": {
+						"DarkColor": "#ee3a43",
+						"LightColor": "#ef747a"
+					}
+	},
+	{
+		
+		"name": "cobras",
+		"score": "79",
+		"logo": "vipers.png",
+		"colors": {
+						"DarkColor": "#d91f2a",
+						"LightColor": "#fc4e58"
+					}
+	},
+	{
+		"name": "Rampage",
+		"score": "79",
+		"logo": "rampage.png",
+		"colors": {
+						"DarkColor": "#6e4d29",
+						"LightColor": "#7b6246"
+					}
+	},
+	{
+		"name": "Hitmen",
+		"score": "79",
+		"logo": "hitmen.png",
+		"colors": {
+						"DarkColor": "#2b3a53", 
+						"LightColor": "#2051a4" 
+					}
+	},
+	{
+		"name": "Avengers",
+		"score": "78",
+		"logo": "avengers.png",
+		"colors": {
+						"DarkColor": "#190C3D",
+						"LightColor": "#6D5AA3" 
+					}
+	},
+
+
+	{
+		
+		"name": "Tigers",
+		"score": "77",
+		"logo": "tigers.png",
+		"colors": {
+						"DarkColor": "#c26e00",
+						"LightColor": "#f7a539"
+					},
+	},
+	{
+		"name": "Dragons",
+		"score": "76",
+		"logo": "dragons.png",
+		"colors": {
+						"DarkColor": "#db3c26",
+						"LightColor": "#f15e4a" 
+					}
+	},
+	{
+		"name": "Rhinos",
+		"score": "75",
+		"logo": "rhinos.png",
+		"colors": {
+						"DarkColor": "#2b3a53",
+						"LightColor": "#3c537d" 
+					}
+	},
+	{
+		"name": "Bulldogs",
+		"score": "74",
+		"logo": "bulldogs.png",
+		"colors": {
+						"DarkColor": "#434380",
+						"LightColor": "#616198" 
+					}
+	},
+
+	{
+		
+		"name": "Devils",
+		"score": "74",
+		"logo": "devils.png",
+		"colors": {
+						"DarkColor": "#c42631",
+						"LightColor": "#cc5860"
+					}
+	},
+	{
+		
+		"name": "Flyers",
+		"score": "72",
+		"logo": "flyers.png",
+		"colors": {
+						"DarkColor": "#7c2336",
+						"LightColor": "#b52344"
+					}
+	},
+	{
+		
+		"name": "Scorpions",
+		"score": "72",
+		"logo": "scorpions.png",
+		"colors": {
+						"DarkColor": "#f9d01a",
+						"LightColor": "#d8b311"
+					}
+	},
+	{
+		
+		"name": "carnivores",
+		"score": "71",
+		"logo": "carnivores.png",
+		"colors": {
+						"DarkColor": "#bb7f32",
+						"LightColor": "#d7a15a"
+					}
+	},
+	{
+		
+		"name": "vipers",
+		"score": "71",
+		"logo": "vipers.png",
+		"colors": {
+						"DarkColor": "#d91f2a",
+						"LightColor": "#fc4e58"
+					}
+	},
+	
+
+
+	{
+		"name": "Fugitives",
+		"score": "70",
+		"logo": "fugitives.png",
+		"colors": {
+						"DarkColor": "#264c2c",
+						"LightColor": "#3f7f49"
+					}
+	},
+	
+	{
+		"name": "Huskies",
+		"score": "18",
+		"logo": "huskies.png",
+		"colors": {
+							"DarkColor": "#bd342e",
+							"LightColor": "#ca5b56"
+					}
+	}
+
+	
+]
