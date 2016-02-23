@@ -1,8 +1,8 @@
-teams:	[
+var teams = [
 	{
 		
-		"name": "Gladiators",
-		"score": "100",
+		"name": "gladiators",
+		"score": 100,
 		"logo": "gladiators.png",
 		"colors": {
 						"DarkColor": "#d62e26",
@@ -12,8 +12,8 @@ teams:	[
 
 	{
 
-		"name": "Owls",
-		"score": "98",
+		"name": "owls",
+		"score": 98,
 		"logo": "owls.png",
 		"colors": {
 						"DarkColor": "#961a33",
@@ -21,8 +21,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Phoenix",
-		"score": "95",
+		"name": "phoenix",
+		"score": 95,
 		"logo": "phoenix.png",
 		"colors": {
 						"DarkColor": "#042B9A",
@@ -31,8 +31,8 @@ teams:	[
 	},
 	{
 		
-		"name": "Bison",
-		"score": "92",
+		"name": "bison",
+		"score": 92,
 		"logo": "bison.png",
 		"colors": {
 							"DarkColor": "#041E42",
@@ -41,8 +41,8 @@ teams:	[
 	},
 	{
 		
-		"name": "PolarBears",
-		"score": "90",
+		"name": "polarbears",
+		"score": 90,
 		"logo": "polarbears.png",
 		"colors": {
 						"DarkColor": "#ef747a",
@@ -51,8 +51,8 @@ teams:	[
 	},
 	{
 		
-		"name": "Lumberjacks",
-		"score": "87",
+		"name": "lumberjacks",
+		"score": 87,
 		"logo": "lumberjacks.png",
 		"colors": {
 						"DarkColor": "#7c2336",
@@ -60,8 +60,8 @@ teams:	[
 					},
 	},
 	{
-		"name": "Bears",
-		"score": "85",
+		"name": "bears",
+		"score": 85,
 		"logo": "bears.png",
 		"colors": {
 						"DarkColor": "#034d2f",
@@ -69,8 +69,8 @@ teams:	[
 					},
 	},
 	{
-		"name": "Barracudas",
-		"score": "84",
+		"name": "barracudas",
+		"score": 84,
 		"logo": "barracudas.png",
 		"colors": {
 						"DarkColor": "#1d355b",
@@ -78,8 +78,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Cannibals",
-		"score": "84",
+		"name": "cannibals",
+		"score": 84,
 		"logo": "cannibals.png",
 		"colors": {
 						"DarkColor": "#7c2336",
@@ -89,8 +89,8 @@ teams:	[
 	},
 	{
 		
-		"name": "Eagles",
-		"score": "82",
+		"name": "eagles",
+		"score": 82,
 		"logo": "eagles.png",
 		"colors": {
 						"DarkColor": "#0096d4",
@@ -98,8 +98,8 @@ teams:	[
 					},
 	},
 	{
-		"name": "Marauders",
-		"score": "80",
+		"name": "marauders",
+		"score": 80,
 		"logo": "marauders.png",
 		"colors": {
 						"DarkColor": "#ee3a43",
@@ -109,16 +109,16 @@ teams:	[
 	{
 		
 		"name": "cobras",
-		"score": "79",
-		"logo": "vipers.png",
+		"score": 79,
+		"logo": "cobras.png",
 		"colors": {
 						"DarkColor": "#d91f2a",
 						"LightColor": "#fc4e58"
 					}
 	},
 	{
-		"name": "Rampage",
-		"score": "79",
+		"name": "rampage",
+		"score": 79,
 		"logo": "rampage.png",
 		"colors": {
 						"DarkColor": "#6e4d29",
@@ -126,8 +126,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Hitmen",
-		"score": "79",
+		"name": "hitmen",
+		"score": 79,
 		"logo": "hitmen.png",
 		"colors": {
 						"DarkColor": "#2b3a53", 
@@ -135,8 +135,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Avengers",
-		"score": "78",
+		"name": "avengers",
+		"score": 78,
 		"logo": "avengers.png",
 		"colors": {
 						"DarkColor": "#190C3D",
@@ -147,8 +147,8 @@ teams:	[
 
 	{
 		
-		"name": "Tigers",
-		"score": "77",
+		"name": "tigers",
+		"score": 77,
 		"logo": "tigers.png",
 		"colors": {
 						"DarkColor": "#c26e00",
@@ -156,8 +156,8 @@ teams:	[
 					},
 	},
 	{
-		"name": "Dragons",
-		"score": "76",
+		"name": "dragons",
+		"score": 76,
 		"logo": "dragons.png",
 		"colors": {
 						"DarkColor": "#db3c26",
@@ -165,8 +165,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Rhinos",
-		"score": "75",
+		"name": "rhinos",
+		"score": 75,
 		"logo": "rhinos.png",
 		"colors": {
 						"DarkColor": "#2b3a53",
@@ -174,8 +174,8 @@ teams:	[
 					}
 	},
 	{
-		"name": "Bulldogs",
-		"score": "74",
+		"name": "bulldogs",
+		"score": 74,
 		"logo": "bulldogs.png",
 		"colors": {
 						"DarkColor": "#434380",
@@ -185,8 +185,8 @@ teams:	[
 
 	{
 		
-		"name": "Devils",
-		"score": "74",
+		"name": "devils",
+		"score": 74,
 		"logo": "devils.png",
 		"colors": {
 						"DarkColor": "#c42631",
@@ -195,8 +195,8 @@ teams:	[
 	},
 	{
 		
-		"name": "Flyers",
-		"score": "72",
+		"name": "flyers",
+		"score": 72,
 		"logo": "flyers.png",
 		"colors": {
 						"DarkColor": "#7c2336",
@@ -205,8 +205,8 @@ teams:	[
 	},
 	{
 		
-		"name": "Scorpions",
-		"score": "72",
+		"name": "scorpions",
+		"score": 72,
 		"logo": "scorpions.png",
 		"colors": {
 						"DarkColor": "#f9d01a",
@@ -216,7 +216,7 @@ teams:	[
 	{
 		
 		"name": "carnivores",
-		"score": "71",
+		"score": 71,
 		"logo": "carnivores.png",
 		"colors": {
 						"DarkColor": "#bb7f32",
@@ -226,7 +226,7 @@ teams:	[
 	{
 		
 		"name": "vipers",
-		"score": "71",
+		"score": 71,
 		"logo": "vipers.png",
 		"colors": {
 						"DarkColor": "#d91f2a",
@@ -237,8 +237,8 @@ teams:	[
 
 
 	{
-		"name": "Fugitives",
-		"score": "70",
+		"name": "fugitives",
+		"score": 70,
 		"logo": "fugitives.png",
 		"colors": {
 						"DarkColor": "#264c2c",
@@ -247,8 +247,8 @@ teams:	[
 	},
 	
 	{
-		"name": "Huskies",
-		"score": "18",
+		"name": "huskies",
+		"score": 70,
 		"logo": "huskies.png",
 		"colors": {
 							"DarkColor": "#bd342e",
@@ -258,3 +258,56 @@ teams:	[
 
 	
 ]
+
+$(document).ready(function(){
+	var sortedTeams = sortResults('score', false);
+	showResults(sortedTeams);
+})
+
+var sortResults= function(prop, asc) {
+    
+    sortedteamsArray = teams.sort(function(a, b) {
+    	
+        if (asc){
+        	return (a[prop] > b[prop]) ? 1 : ((a[prop] < b[prop]) ? -1 : 0);	
+        } 
+        else {
+        	return (b[prop] > a[prop]) ? 1 : ((b[prop] < a[prop]) ? -1 : 0);
+        }
+    });
+    return sortedteamsArray;
+}
+
+var showResults = function(teams){
+	console.log(teams);
+	var index = 1;
+	var totalScore = 300;
+	$.each(teams, function (key, value) {
+		
+		var selector = ".col-1";
+		if( index > 13) {
+			selector = ".col-2";
+		}
+		
+		$(selector).append('<div class="team">'+
+				'<div class="count">'+ index + '</div>'+
+				'<div class="logo '+ value.name +'"></div>'+
+				'<div class="team-info">'+ value.name + '</div>'+
+				'<div class="bar-container">'+
+					'<div class="bar">' +
+						'<div class="score">'+ value.score +'</div>'+
+						'<div class="progress" id="progress-'+ value.name +'"></div>'+
+					'</div>'+
+				'</div>'+
+				
+				'</div>'
+				);
+		var totalWidth = $("body").find('.bar').width();
+		var percentage =  (value.score/totalScore)*100;
+		var scaledWidth = (percentage * totalWidth)/100;
+
+		$("body").find("#progress-" + value.name).css('width', scaledWidth);
+		index++;
+			
+	});
+}
